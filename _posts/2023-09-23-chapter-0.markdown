@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Chapter 0"
+date:   2023-09-19 22:02:00 -0500
+
+---
+
+
+
+![001](/assets/img/chapters/000/001.png)
+![002](/assets/img/chapters/000/002.png)
+![003](/assets/img/chapters/000/003.png)
+![004](/assets/img/chapters/000/004.png)
+![005](/assets/img/chapters/000/005.png)
+![006](/assets/img/chapters/000/006.png)
+![007](/assets/img/chapters/000/007.png)
+
